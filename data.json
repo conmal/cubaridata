@@ -1,15 +1,71 @@
 {
   "title": "Higurashi no Naku Koro ni Gou",
-  "description": "Test",
-  "artist": "Test",
+  "description": "Keiichi Maebara has moved to Hinamizawa Village, a cold village in the mountains. He was fulfilled in the lively and irreplaceable daily life with his friends. Knowing the horrific dismembered murders that occurred in the past and the existence of haunting that has been handed down to the village, suspicions are accelerating due to the unnatural attitude of his friends... The tragedy is repeated. Is it possible to overcome the fate of fear and suspicion and obtain an "answer?" The summer of 1983 begins.",
+  "artist": "Akase Tomato",
   "author": "Ryukishi07",
   "cover": "https://static.wikia.nocookie.net/umineko/images/c/c6/HigurashiGouVol2.jpg",
   "chapters": {
-    "1": {
-      "title": "Chapter 4",
-      "volume": "3",
+    "4": {
+      "title": "Watadamashi-hen Part 1",
+      "volume": "2",
       "groups": {
         "Conmal Translations": "/proxy/api/imgur/chapter/Bm8A1WZ/"
+      },
+      "last_updated": "1616368746"
+    },
+    "5": {
+      "title": "Watadamashi-hen Part 2",
+      "volume": "2",
+      "groups": {
+        "Conmal Translations": "/proxy/api/imgur/chapter/38xVNmG/"
+      },
+      "last_updated": "1616368746"
+    },
+    "6": {
+      "title": "Watadamashi-hen Part 3",
+      "volume": "2",
+      "groups": {
+        "Conmal Translations": "/proxy/api/imgur/chapter/M9Zx73G/"
+      },
+      "last_updated": "1616368746"
+    },
+    "7": {
+      "title": "Watadamashi-hen Part 4",
+      "volume": "2",
+      "groups": {
+        "Conmal Translations": "/proxy/api/imgur/chapter/Bsj2jcH/"
+      },
+      "last_updated": "1616368746"
+    },
+    "8": {
+      "title": "Tataridamashi-hen Part 1",
+      "volume": "3",
+      "groups": {
+        "Conmal Translations": "/proxy/api/imgur/chapter/0g3DQpW/"
+      },
+      "last_updated": "1616368746"
+    },
+    "9": {
+      "title": "Tataridamashi-hen Part 2",
+      "volume": "3",
+      "groups": {
+        "Conmal Translations": "/proxy/api/imgur/chapter/Rf7T2Id/"
+      },
+      "last_updated": "1616368746"
+    },
+    "10": {
+      "title": "Tataridamashi-hen Part 3",
+      "volume": "3",
+      "groups": {
+        "Conmal Translations": "/proxy/api/imgur/chapter/gfEOOXL/"
+      },
+      "last_updated": "1616368746"
+    },
+    "11-1": {
+      "title": "Tataridamashi-hen Part 4-1",
+      "volume": "3",
+      "groups": {
+        "Conmal Translations": "/proxy/api/imgur/chapter/HSKRSDv/"
       },
       "last_updated": "1616368746"
     }
