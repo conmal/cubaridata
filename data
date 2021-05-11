@@ -1,0 +1,17 @@
+{
+  "title": "Higurashi no Naku Koro ni Gou",
+  "description": "",
+  "artist": "",
+  "author": "Ryukishi07",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "4": {
+      "title": "Chapter 4",
+      "volume": "3",
+      "groups": {
+        "Conmal Translations": "/proxy/api/imgur/chapter/Bm8A1WZ/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
