@@ -5,6 +5,30 @@
   "author": "Ryukishi07",
   "cover": "https://static.wikia.nocookie.net/umineko/images/c/c6/HigurashiGouVol2.jpg",
   "chapters": {
+    "1": {
+      "title": "Onidamashi-hen Part 1",
+      "volume": "1",
+      "groups": {
+        "Random Scans": "/proxy/api/imgur/chapter/VoPeHcA/"
+      },
+      "last_updated": "1616368746"
+    },
+    "2": {
+      "title": "Onidamashi-hen Part 2",
+      "volume": "1",
+      "groups": {
+        "Furude Rika Bernscanstel": "/proxy/api/imgur/chapter/ExCm6YL/"
+      },
+      "last_updated": "1616368746"
+    },
+    "3": {
+      "title": "Onidamashi-hen Part 3",
+      "volume": "1",
+      "groups": {
+        "Furude Rika Bernscanstel": "/proxy/api/imgur/chapter/bnIPcGG/"
+      },
+      "last_updated": "1616368746"
+    },
     "4": {
       "title": "Watadamashi-hen Part 1",
       "volume": "2",
