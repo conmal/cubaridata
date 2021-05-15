@@ -5,6 +5,14 @@
   "author": "Ryukishi07",
   "cover": "https://static.wikia.nocookie.net/umineko/images/c/c6/HigurashiGouVol2.jpg",
   "chapters": {
+    "11": {
+      "title": "Tataridamashi-hen Part 4",
+      "volume": "3",
+      "groups": {
+        "Conmal Translations": "/proxy/api/imgur/chapter/chESWpm/"
+      },
+      "last_updated": "1621021159"
+    },
     "1": {
       "title": "Onidamashi-hen Part 1",
       "volume": "1",
@@ -84,14 +92,6 @@
         "Conmal Translations": "/proxy/api/imgur/chapter/gfEOOXL/"
       },
       "last_updated": "1616368746"
-    },
-    "11": {
-      "title": "Tataridamashi-hen Part 4",
-      "volume": "3",
-      "groups": {
-        "Conmal Translations": "/proxy/api/imgur/chapter/HSKRSDv/"
-      },
-      "last_updated": "1621021159"
     }
   }
 }
