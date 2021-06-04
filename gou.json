@@ -5,6 +5,14 @@
   "author": "Ryukishi07",
   "cover": "https://static.wikia.nocookie.net/umineko/images/c/c6/HigurashiGouVol2.jpg",
   "chapters": {
+    "12": {
+      "title": "Tataridamashi-hen Part 5-1",
+      "volume": "3",
+      "groups": {
+        "Conmal Translations": "/proxy/api/imgur/chapter/8rgwHEL/"
+      },
+      "last_updated": "1622817064"
+    },
     "11": {
       "title": "Tataridamashi-hen Part 4",
       "volume": "3",
