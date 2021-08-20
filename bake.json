@@ -1,47 +1,15 @@
 {
   "title": "n",
   "description": "n",
-  "artist": "adolt hitler",
-  "author": "adolf hitler",
-  "cover": "https://www.whitehouse.gov/wp-content/uploads/2021/01/44_barack_obama.jpg",
+  "artist": "Akase Tomato",
+  "author": "Ryukishi07",
+  "cover": "https://static.wikia.nocookie.net/umineko/images/c/c6/HigurashiGouVol2.jpg",
   "chapters": {
-    "104": {
+    "1": {
       "title": "Chapter 104",
       "volume": "13",
       "groups": {
         "Conmal Translations": "/proxy/api/imgur/chapter/sGIxzJm/"
-      },
-      "last_updated": "1628848208"
-    },
-    "105": {
-      "title": "Chapter 105",
-      "volume": "13",
-      "groups": {
-        "Conmal Translations": "/proxy/api/imgur/chapter/pmgbKoN/"
-      },
-      "last_updated": "1628848208"
-    },
-    "106": {
-      "title": "Chapter 106",
-      "volume": "13",
-      "groups": {
-        "Conmal Translations": "/proxy/api/imgur/chapter/14X5S8p/"
-      },
-      "last_updated": "1628848208"
-    },
-    "107": {
-      "title": "Chapter 107",
-      "volume": "13",
-      "groups": {
-        "Conmal Translations": "/proxy/api/imgur/chapter/BOeMBPW/"
-      },
-      "last_updated": "1628848208"
-    },
-    "108": {
-      "title": "Chapter 108",
-      "volume": "13",
-      "groups": {
-        "Conmal Translations": "/proxy/api/imgur/chapter/L1xBUuH/"
       },
       "last_updated": "1628848208"
     }
